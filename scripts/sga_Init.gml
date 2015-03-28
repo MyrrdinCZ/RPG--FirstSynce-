@@ -40,4 +40,3 @@ global._sga_setpos = external_define( nm, "sga_SetPosition", ct, rt, 4, rt, rt, 
 global._sga_trkply = external_define( nm, "sga_TrackPlay", ct, rt, 4, rt, st, rt, rt );
 
 external_call( global._sga_init );
-
